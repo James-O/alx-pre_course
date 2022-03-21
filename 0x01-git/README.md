@@ -1,1 +1,1 @@
-My updated second readme text 
+My second readme
